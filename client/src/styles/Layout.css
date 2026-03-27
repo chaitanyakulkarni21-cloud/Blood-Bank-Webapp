@@ -1,0 +1,42 @@
+.sidebar {
+  height: 100vh !important;
+  background-color: #96b9f2;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  color: white;
+}
+
+.menu {
+  padding-top: 100px;
+  background-color: #96b9f2;
+}
+
+.menu-item {
+  padding-top: 80px;
+  color: #07257f;
+  background-color: #96b9f2;
+}
+
+.menu-item a {
+  color: rgb(11, 0, 0);
+  text-decoration: none;
+  font-size: 1.8rem;
+  background-color: #96b9f2;
+  font-weight: bold;
+}
+
+.menu-item i {
+  font-size: 1.2rem;
+  margin: 0 15px;
+  color: rgb(22, 1, 33);
+}
+
+.active {
+  background-color: rgb(49, 3, 69);
+  padding: 10px;
+  margin-top: 25px;
+}
+
+.active a,
+.active i {
+  color: #000000;
+}

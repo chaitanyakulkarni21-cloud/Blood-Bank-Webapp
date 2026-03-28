@@ -4,6 +4,7 @@ A full-stack Blood Bank Management Web Application built using the MERN stack to
 
 Developer: Chaitanya Kulkarni
 
+Deployed Link:-https://blood-bank-webapp-6p4m.onrender.com
 ✨ Features
 
 User authentication & authorization (JWT)
